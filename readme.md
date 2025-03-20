@@ -18,12 +18,12 @@ Published under the MIT license. Please see [license](license.txt) file
 
 ## Example Video
 
-[Video](/media/ShowcaseBlynkVersion.mp4)
-[Video](/media/ShowcaseMQTTVersion.mp4)
+![[/media/ShowcaseBlynkVersion.mp4]]
+![[/media/ShowcaseMQTTVersion.mp4]]
 
 ## Flow Chart
 
-[Flowchart](/media/Flowchart.png)
+![[/media/Flowchart.png]]
 
 ## roadmap:
 
@@ -48,7 +48,7 @@ Published under the MIT license. Please see [license](license.txt) file
 [BOM](/media/BOM.pdf)
 ## Schematic
 
-[Schematic](/media/Schematic1.SchDoc.PDF)
+![[/media/Schematic1.SchDoc.PDF]]
 ## Changelog
 
 V1.0 Changelog
