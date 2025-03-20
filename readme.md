@@ -3,7 +3,7 @@
 ## About
 
 Esp-01 WiFi module used to control fan speed using motor driver using IoT protocols like Blynk and MQTT
-Use [(#Installation)] and connect [[#BOM]] according to [[#Schematic]]
+Use [installation](#Installation) and connect [[#BOM]] according to [[#Schematic]]
 
 ### Features
 - 2 versions of connection(Blynk-MQTT)
