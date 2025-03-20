@@ -40,7 +40,7 @@ Published under the MIT license. Please see [license](license.txt) file
 - Copy required version to src folder
 - (MQTT VERSION ONLY) Config credentials in initConnection.h and used pins in mqtt.h
 - Build main.cpp
-- connect pins to existing [[#Schematic]]
+- connect pins to existing [Schematic](#Schematic)
 
 ## BOM
 
