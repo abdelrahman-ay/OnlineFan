@@ -17,8 +17,8 @@ Use [[#Installation]] and connect [[#BOM]] according to [[#Schematic]]
 Published under the MIT license. Please see [license](license.txt) file
 
 ## Example Video
-![Blynk](https://github.com/user-attachments/assets/32c7c02d-c2f8-4455-8e3d-dadd16c209c2)
-![MQTT](https://github.com/user-attachments/assets/6cf44402-19e3-4bf0-a1f2-715a8441f3bc)
+![](https://github.com/user-attachments/assets/32c7c02d-c2f8-4455-8e3d-dadd16c209c2)
+![](https://github.com/user-attachments/assets/6cf44402-19e3-4bf0-a1f2-715a8441f3bc)
 
 ## Flow Chart
 
