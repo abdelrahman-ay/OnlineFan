@@ -19,7 +19,7 @@ Published under the MIT license. Please see [license](license.txt) file
 ## Example Video
 
 ![Blynk](/media/ShowcaseBlynkVersion.mp4)
-![MQTT](/media/ShowcaseMQTTVersion.mp4)
+![MQTT](/media/ShowcaseMqttVersion.mp4)
 
 ## Flow Chart
 
